@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-p2gov6.juragan89a.site/sitemap.xml
